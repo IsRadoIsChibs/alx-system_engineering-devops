@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Shell basics - Writing simmple scripts
