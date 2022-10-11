@@ -1,0 +1,1 @@
+Script practices for INPUT/OUTPUT REDIRECTIONS
